@@ -19,9 +19,9 @@
 
 I bridge the gap between engineering execution and product strategy. Over a decade shipping products for companies like **Google**, **Telefonica**, and high-growth startups. I architect systems, optimize performance, reduce costs, and build the teams that keep it all running.
 
-```
-  10+ Years Shipping    ·    15+ Engineers Led    ·    15+ Products Built    ·    10+ Industries
-```
+<p align="center">
+  <strong>10+ Years Shipping</strong> · <strong>15+ Engineers Led</strong> · <strong>15+ Products Built</strong> · <strong>10+ Industries</strong>
+</p>
 
 <table>
 <tr><td width="50%">
@@ -67,6 +67,50 @@ I bridge the gap between engineering execution and product strategy. Over a deca
 
 </details>
 
+<details open>
+<summary><h2>Stack</h2></summary>
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Cloud & Infra**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+**AI & Tooling**
+
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+</details>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=harryy2510&theme=nord&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%" alt="Trophies" />
+</p>
+
 <details>
 <summary><h2>Archived Projects</h2></summary>
 
@@ -92,20 +136,3 @@ I bridge the gap between engineering execution and product strategy. Over a deca
 </p>
 
 </details>
-
-<details open>
-<summary><h2>Stack</h2></summary>
-
-**Frontend** -- React, TypeScript, Next.js, TanStack Start, Tailwind CSS, React Native
-
-**Backend & Data** -- Node.js, Python, PostgreSQL, MongoDB, Redis, GraphQL
-
-**Cloud & Infra** -- AWS, Cloudflare Workers, Supabase, Docker, Terraform, CI/CD
-
-**AI & Tooling** -- Claude Code, OpenAI, MCP Servers, Agent Workflows, Vite, ESLint
-
-</details>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=harryy2510&theme=nord&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%" alt="Trophies" />
-</p>
