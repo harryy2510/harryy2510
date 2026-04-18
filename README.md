@@ -30,38 +30,11 @@
   <a href="https://github.com/harryy2510/geocoded">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=harryy2510&repo=geocoded&theme=react&bg_color=1F222E&title_color=6C63FF&hide_border=true&icon_color=F8D866&show_icons=false" />
   </a>
-  <a href="https://github.com/harryy2510/supabase-keep-alive">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=harryy2510&repo=supabase-keep-alive&theme=react&bg_color=1F222E&title_color=6C63FF&hide_border=true&icon_color=F8D866&show_icons=false" />
-  </a>
+
 </p>
 
 </details>
 
-<details open>
-<summary><h2>The Journey</h2></summary>
-
-```
-  2024 -- now     Independent        Building AI developer tooling
-                                     DotClaude, Vibe Pilot, Geocoded
-
-  2021 -- 2026    GrowthDay          Lead Frontend -> Technical Lead
-                                     15-engineer team, personal development platform
-                                     +9% checkout conversion, 20x scalability
-
-  2019 -- 2020      Google           Software Engineer (via Appointy)
-                                     Scheduling products for internal teams
-
-  2018 -- 2019      Telefonica       Software Engineer (via Appointy)
-                                     Conference room scheduling for EU telecom
-
-  2017 -- 2021    Appointy           Associate -> Engineering Lead
-                                     1M+ users, 232 packages, Saastack framework
-
-  2016 -- 2020    Accevate           Mobile App Developer
-                                     School ERP, React Native, 500+ schools
-```
-
-</details>
 
 <details>
 <summary><h2>Archived Projects</h2></summary>
