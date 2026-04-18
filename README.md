@@ -113,7 +113,7 @@ Legacy work that had its moment.
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=harryy2510&bg_color=1F222E&color=6C63FF&line=F8D866&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harryy2510&theme=nord&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=harryy2510&theme=nord&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%" />
 </p>
 
 </details>
