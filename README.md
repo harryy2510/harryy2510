@@ -1,16 +1,49 @@
 <h1 align="center">Hariom Sharma</h1>
 
 <p align="center">
+  <strong>Technical Lead & Staff Engineer</strong>
+</p>
+
+<p align="center">
   <a href="https://harryy.me"><img src="https://img.shields.io/badge/harryy.me-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
   <a href="https://linkedin.com/in/harryy2510"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+tooling+%C2%B7+SaaS+%C2%B7+Developer+infrastructure;10%2B+years+shipping+TypeScript+full-stack&font=Fira+Code&center=true&width=500&height=45&color=6C63FF&vCenter=true&pause=1000&size=16" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+tooling+%C2%B7+SaaS+%C2%B7+Developer+infrastructure;10%2B+years+shipping+TypeScript+full-stack&font=Fira+Code&center=true&width=500&height=45&color=6C63FF&vCenter=true&pause=1000&size=16" alt="Typing SVG" />
   </a>
 </p>
+
+---
+
+I bridge the gap between engineering execution and product strategy. Over a decade shipping products for companies like **Google**, **Telefonica**, and high-growth startups. I architect systems, optimize performance, reduce costs, and build the teams that keep it all running.
+
+```
+  10+ Years Shipping    ·    15+ Engineers Led    ·    15+ Products Built    ·    10+ Industries
+```
+
+<table>
+<tr><td width="50%">
+
+**What I Do**
+
+- **System Architecture** -- scalable systems from scratch, cloud infra, microservices
+- **Team Leadership** -- build, hire, mentor engineering teams
+- **Product Strategy** -- roadmaps, data-driven prioritization, business metrics
+- **Full-Stack Delivery** -- web, mobile, APIs, infrastructure, zero handoffs
+
+</td><td width="50%">
+
+**Products I've Built**
+
+- [**Aviater**](https://aviater.io) -- flight operations SaaS for aviation
+- [**My Trainer Connect**](https://mytrainerconnect.com) -- fitness marketplace with AI coach
+- [**Vouch**](https://vouch.expert) -- trial abuse prevention & device fingerprinting
+- [**Prompt Valley**](https://promptvalley.ai) -- AI prompt marketplace
+
+</td></tr>
+</table>
 
 ---
 
@@ -63,38 +96,16 @@
 <details open>
 <summary><h2>Stack</h2></summary>
 
-**Languages & Runtime**
+**Frontend** -- React, TypeScript, Next.js, TanStack Start, Tailwind CSS, React Native
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+**Backend & Data** -- Node.js, Python, PostgreSQL, MongoDB, Redis, GraphQL
 
-**Frontend**
+**Cloud & Infra** -- AWS, Cloudflare Workers, Supabase, Docker, Terraform, CI/CD
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend & Infrastructure**
-
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**AI & Tooling**
-
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+**AI & Tooling** -- Claude Code, OpenAI, MCP Servers, Agent Workflows, Vite, ESLint
 
 </details>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=harryy2510&theme=nord&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%" alt="Trophies" />
 </p>
-
