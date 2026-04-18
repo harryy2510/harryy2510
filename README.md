@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://harryy.me"><img src="https://img.shields.io/badge/harryy.me-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
   <a href="https://linkedin.com/in/harryy2510"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/harryy2510"><img src="https://komarev.com/ghpvc/?username=harryy2510&label=Profile+Views&color=1F222E&style=for-the-badge" alt="Profile Views"></a>
+
 </p>
 
 <p align="center">
