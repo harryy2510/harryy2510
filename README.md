@@ -43,6 +43,7 @@ These days I spend a lot of time turning AI-assisted development into a real eng
 - [**web-smith**](https://github.com/harryy2510/web-smith) - design-to-code tooling for Lighthouse-100 Astro sites
 - [**vibe-pilot**](https://github.com/harryy2510/vibe-pilot) - kanban autopilot for AI coding agents
 - [**OpenSymphony**](https://github.com/harryy2510/opensymphony) - WIP desktop control plane for GitHub/Linear-driven agent workflows
+- [**geocoded**](https://github.com/harryy2510/geocoded) - Cloudflare Workers REST API for countries, states, cities, and IP geolocation
 
 </td></tr>
 </table>
@@ -88,21 +89,10 @@ These days I spend a lot of time turning AI-assisted development into a real eng
 </details>
 
 <details>
-<summary><h2>Older Open Source</h2></summary>
+<summary><h2>Archived Projects</h2></summary>
 
-<p>
-  <a href="https://github.com/harryy2510/geocoded">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=harryy2510&repo=geocoded&theme=react&bg_color=1F222E&title_color=6C63FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="geocoded" />
-  </a>
-  <a href="https://github.com/harryy2510/ngx-img">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=harryy2510&repo=ngx-img&theme=react&bg_color=1F222E&title_color=6C63FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="ngx-img" />
-  </a>
-  <a href="https://github.com/harryy2510/dnd-editor">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=harryy2510&repo=dnd-editor&theme=react&bg_color=1F222E&title_color=6C63FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="dnd-editor" />
-  </a>
-  <a href="https://github.com/harryy2510/rehttp">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=harryy2510&repo=rehttp&theme=react&bg_color=1F222E&title_color=6C63FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="rehttp" />
-  </a>
-</p>
+- [**ngx-img**](https://github.com/harryy2510/ngx-img) - Angular image component experiments
+- [**dnd-editor**](https://github.com/harryy2510/dnd-editor) - drag-and-drop editor prototype
+- [**rehttp**](https://github.com/harryy2510/rehttp) - HTTP utility experiments
 
 </details>
